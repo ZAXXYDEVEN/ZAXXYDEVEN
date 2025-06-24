@@ -1,7 +1,7 @@
 ## Hi i am zaxxydeven 👋
 
-!<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/31/58/8b3158b39c1d73079c7c64d2ddacb0f5.gif" width="600"/>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600"/>
 </p>
 
 ## 🌐 Socials:
