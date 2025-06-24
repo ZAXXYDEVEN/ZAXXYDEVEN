@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi i am zaxxydeven 👋
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/31/58/8b3158b39c1d73079c7c64d2ddacb0f5.gif" width="600"/>
+</p>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZaxxyDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xdvenom260@gmail.com) 
